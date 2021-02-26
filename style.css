@@ -1,0 +1,16 @@
+* { 
+    padding: 0;
+    margin: 0;
+    background-color:cornflowerblue;
+}
+
+.body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.container {
+    display:flex;
+    width: 50%;
+    margin:0 auto;
+    margin-top: 10rem;
+}

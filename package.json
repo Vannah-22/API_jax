@@ -1,0 +1,19 @@
+{
+  "name": "ccbc_apiandnode",
+  "version": "1.0.0",
+  "description": "My first API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beginner",
+    "API",
+    "CCBC"
+  ],
+  "author": "Vanessa J",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
