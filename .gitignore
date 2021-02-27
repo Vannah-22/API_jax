@@ -1,0 +1,5 @@
+#this file tells git what to ignore, this won't be added to any of our #
+#git add . commands #
+# no annotations
+#each line is ONE item: a folder, a file, etc. #
+node_modules

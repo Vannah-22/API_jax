@@ -31,13 +31,36 @@
 // log the url to the console
 // make a Github repository to store this code
 
+// let axios = require("axios");
+// console.log(axios);
+// let url = "https://dog.ceo/api/breed/pitbull/images/random";
+// axios.get(url)
+//     .then(function(response){
+//         let imgLocale = response.data.message;
 
+//         // create an img tag //
+//         let img = document.createElement("img");
+//         // use the url we got from the API //
+//         img.src = imgLocale;
+//         img.alt = "Picture of Pitbull";
+//         img.className = "dog";
+//         // and append it to the document //
+//         let container = document.querySelector(".container");
+//         container.appendChild(img);
+//     })
 
-let axios = require("axios");
-console.log(axios);
-
-let url = "https://dog.ceo/api/breed/Otterhound/images/random";
+    let url = "https://dog.ceo/api/breed/pitbull/images/random";
 axios.get(url)
     .then(function(response){
-        console.log(response.data.message);
+        let imgLocale = response.data.message;
+
+        // create an img tag //
+        let img = document.createElement("img");
+        // use the url we got from the API //
+        img.src = imgLocale;
+        img.alt = "Picture of Pitbull";
+        img.className = "dog";
+        // and append it to the document //
+        let container = document.querySelector(".container");
+        container.appendChild(img);
     })

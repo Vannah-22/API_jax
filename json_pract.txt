@@ -1,0 +1,394 @@
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/vjack/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT/.git/
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (master)
+$ git checkout -b Otterhound
+Switched to a new branch 'Otterhound'
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git status
+On branch Otterhound
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "Otterhound api"
+On branch Otterhound
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add index.json
+fatal: pathspec 'index.json' did not match any files
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add index.js
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git status
+On branch Otterhound
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add JSON_PRACT
+fatal: pathspec 'JSON_PRACT' did not match any files
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add index.js
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+fatal: The current branch Otterhound has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Otterhound
+
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "lakdjla"
+On branch Otterhound
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push --set-upstream origin Otterhound
+Enumerating objects: 67, done.
+Counting objects: 100% (67/67), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (64/64), done.
+Writing objects: 100% (67/67), 111.06 KiB | 5.05 MiB/s, done.
+Total 67 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (8/8), done.
+remote:
+remote: Create a pull request for 'Otterhound' on GitHub by visiting:
+remote:      https://github.com/Vannah-22/API_jax/pull/new/Otterhound
+remote:
+To https://github.com/Vannah-22/API_jax.git
+ * [new branch]      Otterhound -> Otterhound
+Branch 'Otterhound' set up to track remote branch 'Otterhound' from 'origin'.
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index
+C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index
+.js:36
+let axios = require("axios");
+    ^
+
+SyntaxError: Identifier 'axios' has already been declared
+←[90m    at wrapSafe (internal/modules/cjs/loader.js:979:16)←[39m
+←[90m    at Module._compile (internal/modules/cjs/loader.js:1027:27)←[39m
+←[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:1
+0)←[39m
+←[90m    at Module.load (internal/modules/cjs/loader.js:928:32)←[39m
+←[90m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)←[39m
+←[90m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_ma
+in.js:72:12)←[39m
+←[90m    at internal/main/run_main_module.js:17:47←[39m
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+<ref *1> [Function: wrap] {
+  request: [Function: wrap],
+  getUri: [Function: wrap],
+  delete: [Function: wrap],
+  get: [Function: wrap],
+  head: [Function: wrap],
+  options: [Function: wrap],
+  post: [Function: wrap],
+  put: [Function: wrap],
+  patch: [Function: wrap],
+  defaults: {
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      common: [Object],
+      delete: {},
+      get: {},
+      head: {},
+      post: [Object],
+      put: [Object],
+      patch: [Object]
+    }
+  },
+  interceptors: {
+    request: InterceptorManager { handlers: [] },
+    response: InterceptorManager { handlers: [] }
+  },
+  Axios: [Function: Axios],
+  create: [Function: create],
+  Cancel: [Function: Cancel],
+  CancelToken: [Function: CancelToken] { source: [Function: source] },
+  isCancel: [Function: isCancel],
+  all: [Function: all],
+  spread: [Function: spread],
+  isAxiosError: [Function: isAxiosError],
+  default: [Circular *1]
+}
+(node:21164) UnhandledPromiseRejectionWarning: Error: Request failed with status
+ code 404
+    at createError (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-J
+SON\JSON_PRACT\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\J
+SON_PRACT\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\vjack\Desktop\CultivatingCoders
+2021\CCBC_API-Node-JSON\JSON_PRACT\node_modules\axios\lib\adapters\http.js:260:1
+1)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:21164) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This
+ error originated either by throwing inside of an async function without a catch
+ block, or by rejecting a promise which was not handled with .catch(). To termin
+ate the node process on unhandled promise rejection, use the CLI flag `--unhandl
+ed-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejecti
+ons_mode). (rejection id: 2)
+(node:21164) [DEP0018] DeprecationWarning: Unhandled promise rejections are depr
+ecated. In the future, promise rejections that are not handled will terminate th
+e Node.js process with a non-zero exit code.
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+<ref *1> [Function: wrap] {
+  request: [Function: wrap],
+  getUri: [Function: wrap],
+  delete: [Function: wrap],
+  get: [Function: wrap],
+  head: [Function: wrap],
+  options: [Function: wrap],
+  post: [Function: wrap],
+  put: [Function: wrap],
+  patch: [Function: wrap],
+  defaults: {
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      common: [Object],
+      delete: {},
+      get: {},
+      head: {},
+      post: [Object],
+      put: [Object],
+      patch: [Object]
+    }
+  },
+  interceptors: {
+    request: InterceptorManager { handlers: [] },
+    response: InterceptorManager { handlers: [] }
+  },
+  Axios: [Function: Axios],
+  create: [Function: create],
+  Cancel: [Function: Cancel],
+  CancelToken: [Function: CancelToken] { source: [Function: source] },
+  isCancel: [Function: isCancel],
+  all: [Function: all],
+  spread: [Function: spread],
+  isAxiosError: [Function: isAxiosError],
+  default: [Circular *1]
+}
+(node:17056) UnhandledPromiseRejectionWarning: Error: Request failed with status
+ code 404
+    at createError (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-J
+SON\JSON_PRACT\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\J
+SON_PRACT\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\vjack\Desktop\CultivatingCoders
+2021\CCBC_API-Node-JSON\JSON_PRACT\node_modules\axios\lib\adapters\http.js:260:1
+1)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:17056) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This
+ error originated either by throwing inside of an async function without a catch
+ block, or by rejecting a promise which was not handled with .catch(). To termin
+ate the node process on unhandled promise rejection, use the CLI flag `--unhandl
+ed-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejecti
+ons_mode). (rejection id: 2)
+(node:17056) [DEP0018] DeprecationWarning: Unhandled promise rejections are depr
+ecated. In the future, promise rejections that are not handled will terminate th
+e Node.js process with a non-zero exit code.
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "correct answer"
+[Otterhound d9b0e88] correct answer
+ 1 file changed, 43 insertions(+), 43 deletions(-)
+ rewrite index.js (76%)
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 454 bytes | 454.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Vannah-22/API_jax.git
+   a32c5a3..d9b0e88  Otterhound -> Otterhound
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+<ref *1> [Function: wrap] {
+  request: [Function: wrap],
+  getUri: [Function: wrap],
+  delete: [Function: wrap],
+  get: [Function: wrap],
+  head: [Function: wrap],
+  options: [Function: wrap],
+  post: [Function: wrap],
+  put: [Function: wrap],
+  patch: [Function: wrap],
+  defaults: {
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      common: [Object],
+      delete: {},
+      get: {},
+      head: {},
+      post: [Object],
+      put: [Object],
+      patch: [Object]
+    }
+  },
+  interceptors: {
+    request: InterceptorManager { handlers: [] },
+    response: InterceptorManager { handlers: [] }
+  },
+  Axios: [Function: Axios],
+  create: [Function: create],
+  Cancel: [Function: Cancel],
+  CancelToken: [Function: CancelToken] { source: [Function: source] },
+  isCancel: [Function: isCancel],
+  all: [Function: all],
+  spread: [Function: spread],
+  isAxiosError: [Function: isAxiosError],
+  default: [Circular *1]
+}
+(node:6136) UnhandledPromiseRejectionWarning: Error: Request failed with status
+code 404
+    at createError (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-J
+SON\JSON_PRACT\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\J
+SON_PRACT\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\vjack\Desktop\CultivatingCoders
+2021\CCBC_API-Node-JSON\JSON_PRACT\node_modules\axios\lib\adapters\http.js:260:1
+1)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:6136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This
+error originated either by throwing inside of an async function without a catch
+block, or by rejecting a promise which was not handled with .catch(). To termina
+te the node process on unhandled promise rejection, use the CLI flag `--unhandle
+d-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejectio
+ns_mode). (rejection id: 2)
+(node:6136) [DEP0018] DeprecationWarning: Unhandled promise rejections are depre
+cated. In the future, promise rejections that are not handled will terminate the
+ Node.js process with a non-zero exit code.
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git status
+On branch Otterhound
+Your branch is up to date with 'origin/Otterhound'.
+
+nothing to commit, working tree clean
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ npm install live-server
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+npm WARN deprecated opn@6.0.0: The package has been renamed to `open`
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN ccbc_apiandnode@1.0.0 No repository field.
+
++ live-server@1.2.1
+added 197 packages from 156 contributors and audited 200 packages in 9.936s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ npm install live-server -g
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+npm WARN deprecated opn@6.0.0: The package has been renamed to `open`
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+C:\Users\vjack\AppData\Roaming\npm\live-server -> C:\Users\vjack\AppData\Roaming\npm\node_modules\live-server\live-server.js
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\live-server\node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ live-server@1.2.1
+added 194 packages from 149 contributors in 6.276s
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ live server
+bash: live: command not found
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ cd master
+bash: cd: master: No such file or directory
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ cd -
+bash: cd: OLDPWD not set
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ cd/
+bash: cd/: No such file or directory
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ cd~
+bash: cd~: command not found
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ live-server
+Serving "C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT" at http://127.0.0.1:8080
+GET /favicon.ico 404 4.124 ms - 150
+Ready for changes
