@@ -70,14 +70,14 @@ axios.get(url)
                 let card = document.createElement("div");
 
                 let title = document.createElement("h1");
-                card.appendChild("title");
+                card.appendChild(".title");
                 
             
                 let descrip = document.createElement("p");
-                card.appendChild("desrcip");
+                card.appendChild(".desrcip");
 
                 let rls = document.createElement("p");
-                card.appendChild("rls");
+                card.appendChild(".rls");
             })
 
 
