@@ -49,44 +49,55 @@
 //         container.appendChild(img);
 //     })
 
-// let url = "https://ghibliapi.herokuapp.com/films";
-// axios.get(url)
-//     .then(function(response){
-//         let data = response.data;
-
-//         for (i=0; i < data.length; i++) {
-//             console.log(data[i].title);
-//         }
-//         // loop though the data, log the name of each movie
-//         // to the console
-//     })
-
 let url = "https://ghibliapi.herokuapp.com/films";
 axios.get(url)
-        .then(function(response){
-            let data = response.data;
+    .then(function(response){
+        let data = response.data;
+        for (i=0; i < data.length; i++) {
 
-            for (i=0; i < data.length; i++) {
-                let card = document.createElement("div");
+            let card = document.createElement("div");
 
-                let title = document.createElement("h1");
-                card.appendChild(title);
+            let title = document.createElement("h1");
+            card.appendChild(title);
+            console.log(data[i].title);
+
+
+            let descrip = document.createElement("p");
+            card.appendChild(descrip);
+            console.log(data[i].description);
+            
+            let rls = document.createElement("p");
+            card.appendChild(rls);
+            console.log(data[i].release_date);
+
+            let container = document.querySelector(".container");
+            container.appendChild(card);
+        }
+    
+    })
+
+// let url = "https://ghibliapi.herokuapp.com/films";
+// axios.get(url)
+//         .then(function(response){
+//             let data = response.data;
+
+//             for (i=0; i < data.length; i++) {
+//                 let card = document.createElement("div");
+
+//                 let title = document.createElement("h1");
+//                 card.appendChild(title);
                 
             
-                let descrip = document.createElement("p");
-                card.appendChild(descrip);
+//                 let descrip = document.createElement("p");
+//                 card.appendChild(descrip);
 
-                let rls = document.createElement("p");
-                card.appendChild(rls);
-            }
-        let container = document.querySelector(".container");
-                container.appendChild(card);
-                console.log(container);
-        })
+//                 let rls = document.createElement("p");
+//                 card.appendChild(rls);
 
-        
-
-
+//             let container = document.querySelector(".container");
+//             container.appendChild(card);
+//              }
+//         })
 
 
 //     // loop through the data, 
@@ -126,5 +137,3 @@ axios.get(url)
 //                 countryside, battling hunger, prejudice, and pride in their own quiet, personal battle.</p>
 //             <p class="release">Released in 1988</p>
 //         </div>
-// You do not have permission to send messages in this channel.
-// ﻿
