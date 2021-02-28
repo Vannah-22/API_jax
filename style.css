@@ -10,9 +10,8 @@
 
 .container {
     display:flex;
-    width: 50%;
-    margin:0 auto;
-    margin-top: 10rem;
+    justify-content: center;
+    margin: 25px;
 }
 
 .dog{

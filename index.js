@@ -59,45 +59,25 @@ axios.get(url)
 
             let title = document.createElement("h1");
             card.appendChild(title);
-            console.log(data[i].title);
-
+            title.innerText = data[i].title;
+            // console.log(data[i].title);
+            
 
             let descrip = document.createElement("p");
             card.appendChild(descrip);
-            console.log(data[i].description);
+            descrip.innerText = data[i].description;
+            // console.log(data[i].description);
             
             let rls = document.createElement("p");
             card.appendChild(rls);
-            console.log(data[i].release_date);
+            rls.innerText = data[i].release_date;
+            // console.log(data[i].release_date);
 
             let container = document.querySelector(".container");
             container.appendChild(card);
+ 
         }
-    
     })
-
-// let url = "https://ghibliapi.herokuapp.com/films";
-// axios.get(url)
-//         .then(function(response){
-//             let data = response.data;
-
-//             for (i=0; i < data.length; i++) {
-//                 let card = document.createElement("div");
-
-//                 let title = document.createElement("h1");
-//                 card.appendChild(title);
-                
-            
-//                 let descrip = document.createElement("p");
-//                 card.appendChild(descrip);
-
-//                 let rls = document.createElement("p");
-//                 card.appendChild(rls);
-
-//             let container = document.querySelector(".container");
-//             container.appendChild(card);
-//              }
-//         })
 
 
 //     // loop through the data, 
