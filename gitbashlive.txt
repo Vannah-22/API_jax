@@ -1,0 +1,175 @@
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+<ref *1> [Function: wrap] {
+  request: [Function: wrap],
+  getUri: [Function: wrap],
+  delete: [Function: wrap],
+  get: [Function: wrap],
+  head: [Function: wrap],
+  options: [Function: wrap],
+  post: [Function: wrap],
+  put: [Function: wrap],
+  patch: [Function: wrap],
+  defaults: {
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      common: [Object],
+      delete: {},
+      get: {},
+      head: {},
+      post: [Object],
+      put: [Object],
+      patch: [Object]
+    }
+  },
+  interceptors: {
+    request: InterceptorManager { handlers: [] },
+    response: InterceptorManager { handlers: [] }
+  },
+  Axios: [Function: Axios],
+  create: [Function: create],
+  Cancel: [Function: Cancel],
+  CancelToken: [Function: CancelToken] { source: [Function: source] },
+  isCancel: [Function: isCancel],
+  all: [Function: all],
+  spread: [Function: spread],
+  isAxiosError: [Function: isAxiosError],
+  default: [Circular *1]
+}
+https://images.dog.ceo/breeds/pitbull/20190710_143021.jpg
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "json pract"
+[Otterhound b63735b] json pract
+ 7 files changed, 2016 insertions(+), 8 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 json_pract.txt
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 18.21 KiB | 6.07 MiB/s, done.
+Total 9 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/Vannah-22/API_jax.git
+   d9b0e88..b63735b  Otterhound -> Otterhound
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index
+.js:53
+axios.get(url)
+^
+
+ReferenceError: axios is not defined
+    at Object.<anonymous> (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API
+-Node-JSON\JSON_PRACT\index.js:53:1)
+←[90m    at Module._compile (internal/modules/cjs/loader.js:1063:30)←[39m
+←[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:1
+0)←[39m
+←[90m    at Module.load (internal/modules/cjs/loader.js:928:32)←[39m
+←[90m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)←[39m
+←[90m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_ma
+in.js:72:12)←[39m
+←[90m    at internal/main/run_main_module.js:17:47←[39m
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ node index.js
+C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index
+.js:53
+axios.get(url)
+^
+
+ReferenceError: axios is not defined
+    at Object.<anonymous> (C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API
+-Node-JSON\JSON_PRACT\index.js:53:1)
+←[90m    at Module._compile (internal/modules/cjs/loader.js:1063:30)←[39m
+←[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:1
+0)←[39m
+←[90m    at Module.load (internal/modules/cjs/loader.js:928:32)←[39m
+←[90m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)←[39m
+←[90m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_ma
+in.js:72:12)←[39m
+←[90m    at internal/main/run_main_module.js:17:47←[39m
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "JSON, JS, API practice"
+[Otterhound 9e6d031] JSON, JS, API practice
+ 3 files changed, 82 insertions(+), 15 deletions(-)
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.14 KiB | 2.14 MiB/s, done.
+Total 5 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/Vannah-22/API_jax.git
+   b63735b..9e6d031  Otterhound -> Otterhound
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "text"
+[Otterhound 9e6bb77] text
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 300 bytes | 300.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Vannah-22/API_jax.git
+   9e6d031..9e6bb77  Otterhound -> Otterhound
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git commit -m "work in progress"
+[Otterhound 3ecee12] work in progress
+ 1 file changed, 10 insertions(+), 8 deletions(-)
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 375 bytes | 375.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Vannah-22/API_jax.git
+   9e6bb77..3ecee12  Otterhound -> Otterhound
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$

@@ -1,0 +1,575 @@
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ git add .
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ cd~
+bash: cd~: command not found
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ live server
+bash: live: command not found
+
+vjack@LAPTOP-ND0EM500 MINGW64 ~/Desktop/CultivatingCoders2021/CCBC_API-Node-JSON/JSON_PRACT (Otterhound)
+$ live-server
+Serving "C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT" at http://127.0.0.1:8080
+Ready for changes
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+GET /undefined 404 1.945 ms - 148
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+GET /undefined 404 0.542 ms - 148
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+GET /undefined 404 0.418 ms - 148
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.js
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\package.json
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\package-lock.json
+CSS change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\style.css
+Change detected C:\Users\vjack\Desktop\CultivatingCoders2021\CCBC_API-Node-JSON\JSON_PRACT\index.html
