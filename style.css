@@ -1,24 +1,22 @@
 * { 
-    padding: 0;
-    margin: 0;
-    background-color:cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    background-color:#6495ed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .body {
-    font-family:'Courier New', Courier, monospace;
 }
 
 .container {
     display: flex;
-    justify-content: center;
-    align-items: space-around;
-    margin: 25px;
+    flex-wrap: wrap;
+
 }
 
-.dog{
-    width: 20vw;
-    height: 50vh;
-}
+    .h1{
+        
+    }
 
 .card {
     background-color: red;

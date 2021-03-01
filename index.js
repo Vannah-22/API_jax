@@ -49,6 +49,12 @@
 //         container.appendChild(img);
 //     })
 
+let intro = document.createElement("div");
+
+let welcome = document.createElement("h1");
+welcome.innerText = "Studio Ghibli Films";
+let container = document.appendChild(intro);
+
 let url = "https://ghibliapi.herokuapp.com/films";
 axios.get(url)
     .then(function(response){
@@ -61,17 +67,17 @@ axios.get(url)
             card.appendChild(title);
             title.innerText = data[i].title;
             // console.log(data[i].title);
-            
+   
+            let rls = document.createElement("p");
+            card.appendChild(rls);
+            rls.innerText = data[i].release_date;
+            // console.log(data[i].release_date);
 
             let descrip = document.createElement("p");
             card.appendChild(descrip);
             descrip.innerText = data[i].description;
             // console.log(data[i].description);
-            
-            let rls = document.createElement("p");
-            card.appendChild(rls);
-            rls.innerText = data[i].release_date;
-            // console.log(data[i].release_date);
+        
 
             let container = document.querySelector(".container");
             container.appendChild(card);
@@ -79,7 +85,7 @@ axios.get(url)
         }
     })
 
-
+    
 //     // loop through the data, 
 //         // create a card for each movie
 //         /*
