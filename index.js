@@ -49,11 +49,12 @@
 //         container.appendChild(img);
 //     })
 
-let intro = document.createElement("div");
+// let intro = document.createElement("div");
+// let container = document.appendChild(intro);
+// let welcome = document.createElement("h1");
+// welcome.innerText = "Studio Ghibli Films";
 
-let welcome = document.createElement("h1");
-welcome.innerText = "Studio Ghibli Films";
-let container = document.appendChild(intro);
+
 
 let url = "https://ghibliapi.herokuapp.com/films";
 axios.get(url)
@@ -85,7 +86,7 @@ axios.get(url)
         }
     })
 
-    
+
 //     // loop through the data, 
 //         // create a card for each movie
 //         /*
