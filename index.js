@@ -50,16 +50,31 @@
 //     })
 
 // let intro = document.createElement("div");
-// let container = document.appendChild(intro);
+// container.appendChild(intro);
+
+// let container = document.querySelector(".container");
+// // let newA = oldA + 1;
+// // let the new value equal the old value plus a new modif.
+// // appendChild parent and child are html elements
+
+
 // let welcome = document.createElement("h1");
 // welcome.innerText = "Studio Ghibli Films";
 
-
+// parseAsInteger === parsInt returns a value into a number 
+function classics(film){
+    return film.release_date < 1990;
+}
 
 let url = "https://ghibliapi.herokuapp.com/films";
 axios.get(url)
     .then(function(response){
         let data = response.data;
+            data = data.filter(
+                /* .filter is a method that keeps the elements
+                for which the filterering function returns TRUE */
+                classics
+            )
         for (i=0; i < data.length; i++) {
 
             let card = document.createElement("div");
