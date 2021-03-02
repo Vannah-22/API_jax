@@ -75,19 +75,50 @@
 //     return film.release_date > 2000;
 // }
 
-function justCastles(film){
-    return title.str.includes("castle");
-}
+// function justCastles(film){
+//     return film.title.includes("Castle");
+// }
+
+
+//sorting is done 'in-place', so i affects the original array.
+
+
+
 
 let url = "https://ghibliapi.herokuapp.com/films";
 axios.get(url)
     .then(function(response){
         let data = response.data;
-            data = data.filter(
-                /* .filter is a method that keeps the elements
-                for which the filterering function returns TRUE */
-                justCastles
-            )
+            // data = data.filter(
+            //     /* .filter is a method that keeps the elements
+            //     for which the filterering function returns TRUE */
+            //     justCastles
+            // )
+
+        data.sort(
+            function (filmA, filmB) {
+                // sort by release date in descending order 
+                if (filmA.release_date < filmB.release_date) {
+                    return 1
+                }
+                else {
+                    return -1
+                }
+            }
+        )
+
+        //     function(filmA, filmB) {
+        //      // sort by title of each film
+        //     if (filmA.title > filmB.title) {
+        //         return 1
+        //     }
+        //     else {
+        //         return -1
+        //     }
+        //      // return filmA.title < filmB.title
+        // })
+
+
         for (i=0; i < data.length; i++) {
 
             let card = document.createElement("div");
@@ -110,7 +141,6 @@ axios.get(url)
 
             let container = document.querySelector(".container");
             container.appendChild(card);
- 
         }
     })
 
