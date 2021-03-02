@@ -61,9 +61,22 @@
 // let welcome = document.createElement("h1");
 // welcome.innerText = "Studio Ghibli Films";
 
+
+//MARCH 1st //
+
 // parseAsInteger === parsInt returns a value into a number 
-function classics(film){
-    return film.release_date < 1990;
+// return films with a release dat BEFORE 1990;
+// function oldSchool(film){
+//     return film.release_date < 1990;
+// }
+
+// // return films with a release date AFTER 2000;
+// function newSchool(film) {
+//     return film.release_date > 2000;
+// }
+
+function justCastles(film){
+    return title.str.includes("castle");
 }
 
 let url = "https://ghibliapi.herokuapp.com/films";
@@ -73,7 +86,7 @@ axios.get(url)
             data = data.filter(
                 /* .filter is a method that keeps the elements
                 for which the filterering function returns TRUE */
-                classics
+                justCastles
             )
         for (i=0; i < data.length; i++) {
 
